@@ -1,0 +1,19 @@
+.cardview{
+	display: flex;
+}
+.card1{
+
+    padding: 32px;
+    margin: 2px;
+    border: 8px;
+    width: auto;
+
+}
+.card2{
+
+    padding: 32px;
+    margin: 2px;
+    border: 8px;
+    width: auto;
+
+}
